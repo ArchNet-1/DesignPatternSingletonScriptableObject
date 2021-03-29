@@ -45,7 +45,7 @@ That all folks !
 <!-- Usage -->
 ## usage
 
-This extension is a design pattern singleton for scriptable ojects.
+This extension is a design pattern singleton for scriptable objects.
 
 Get the github HTTPS project url and load it in Unity Package Manager windows
 
