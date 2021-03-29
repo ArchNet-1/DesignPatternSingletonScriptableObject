@@ -1,0 +1,20 @@
+{
+  "name": "com.archnet.designpattern.singletonscriptableobject",
+  "version": "1.0.0",
+  "displayName": "Arch Net Design Pattern Singleton Scriptable Object",
+  "description": "Extension to define a scriptable object class as singleton",
+  "unity": "2020.1",
+  "unityRelease": "0b5",
+  "keywords": [
+    "Arch",
+    "ArchNet",
+    "Design Pattern",
+    "Singleton",
+    "ScriptableObject",
+    "Custom"
+  ],
+  "author": {
+    "name": "Arch Net",
+    "email": "archnetmodule@gmail.com"
+  }
+}
